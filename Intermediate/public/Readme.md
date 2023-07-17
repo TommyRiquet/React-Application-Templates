@@ -1,6 +1,6 @@
-# Public Folder in a Simple React Application
+# Public Folder in an Intermediate React Application
 
-The `public` folder serves as the root directory for static assets in your React application. It contains files that are directly accessible without any build process. This README.md explains the purpose and usage of the `public` folder in a simple React application.
+The `public` folder serves as the root directory for static assets in your intermediate React application. It contains files that are directly accessible without any build process. This README.md explains the purpose and usage of the `public` folder in an intermediate React application.
 
 ## Contents
 
@@ -13,7 +13,7 @@ The `public` folder is a crucial part of a React application's file structure. I
 
 ## Folder Structure
 
-A simple React application's folder structure might look like this:
+An intermediate React application's folder structure might look like this:
 
 my-react-app/
 README.md
@@ -35,4 +35,4 @@ The `public` folder contains the following files:
 
 You can place other static assets in the `public` folder that your application requires.
 
-By understanding the purpose and usage of the `public` folder, you can effectively manage your static assets in a simple React application.
+By understanding the purpose and usage of the `public` folder, you can effectively manage your static assets in an intermediate React application.
